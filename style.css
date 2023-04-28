@@ -60,6 +60,7 @@ body{
 }
 
 .weather h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px;
@@ -82,4 +83,9 @@ body{
 .col img{
     width: 40px;
     margin-right: 10px;
+}
+
+.humidity, .wind{
+    font-size: 28px;
+    margin-top: -6px;
 }

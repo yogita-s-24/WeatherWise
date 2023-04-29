@@ -6,10 +6,13 @@
 }
 
 body{
-    background-color: #222;
+    background:  #02000e;
     max-height: 100vh;
 }
-
+.app-heading, .para-heading{
+    margin-bottom: 20px;
+    text-align: center;
+}
 .card{
     width: 90%;
     max-width: 470px;
@@ -58,12 +61,12 @@ body{
 
 .weather-icon{
     width: 170px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 .weather h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 400;
     margin-top: -10px;
 }
@@ -84,7 +87,7 @@ body{
 }
 
 .col img{
-    width: 40px;
+    width: 45px;
     margin-right: 10px;
 }
 
